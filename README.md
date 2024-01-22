@@ -77,160 +77,160 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png"
       alt="android"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
       alt="html5"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
       alt="css3"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"
       alt="bootstrap"
-      width="60"
-      height="50"
+      width="70"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
       alt="javascript"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"
       alt="php"
-      width="60"
-      height="50"
+      width="70"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
       alt="mysql"
-      width="60"
-      height="50"
+      width="70"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png"
       alt="java"
-      width="60"
-      height="50"
+      width="70"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
       alt="python"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"
       alt="nodejs"
-      width="60"
-      height="50"
+      width="70"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://static-00.iconduck.com/assets.00/figma-icon-2048x2048-lvgft610.png"
       alt="figma"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png"
       alt="Adobe After Effects"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"
       alt="Adobe Premiere Pro"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"
       alt="photoshop"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"
       alt="Adobe Lightroom"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a>
     <img
       src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png"
       alt="Canva"
-      width="50"
-      height="40"
+      width="70"
+      height="60"
     />
   </a>
 </p>
