@@ -4,12 +4,14 @@
   Versatile Technologist Proficient in Full-Stack Development, passionate about
   creating innovative solutions
 </h3>
-<img
-  align="center"
-  alt="Coding"
-  width="500"
-  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"
-/>
+
+<p align="center">
+  <img
+    alt="Coding"
+    width="500"
+    src="https://img.freepik.com/premium-photo/pixel-art-programmer-work_1296762-9503.jpg"
+  />
+</p>
 
 <p align="center">
   <img
@@ -21,240 +23,135 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=harshchaudhari2004"
+      src="https://github-profile-trophy.vercel.app/?username=harshchaudhari2004&title=-PullRequest,-Reviews&theme=dark_dimmed&column=7&margin-w=5&margin-h=15&no-frame=true&no-bg=false"
       alt="harshchaudhari2004"
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **Supermind**
 - 🌱 I’m currently learning **Python**
-- 👨‍🎓 Currently pursuing **B.E from Datta Meghe College of Engineering**
-- 👀 I’m interested in ... **Coding and Video Editing...much more**
+- 👨‍🎓 Currently pursuing **B.E Artificial Intelligence & Data Science**
+- 👀 I’m interested in ... **Coding, gaming and Video Editing...much more**
 - 📫 How to reach me **harshrchaudhari2004@gmail.com**
 - ⚡ Fun fact **I am a Tech Nerd**
-- 💞️ I’m looking to collaborate on **..**
-- 🤝 I’m looking for help with **..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/harsh-chaudhari2004" target="blank"
+  <a href="https://linkedin.com/in/harsh-chaudhari2004" target="_blank"
     ><img
       align="center"
-      src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
       alt="harsh-chaudhari2004"
       height="50"
-      width="50"
+      width="auto"
+      style="margin-right: 5px;"
   /></a>
-  <a href="https://instagram.com/ig__narzo" target="blank"
+  <a href="https://instagram.com/ig__narzo" target="_blank"
     ><img
       align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
       alt="ig__narzo"
       height="50"
-      width="50"
+      width="auto"
+      style="margin-right: 5px;"
   /></a>
-  <a href="https://www.youtube.com/@botnarzo" target="blank"
+  <a href="https://www.youtube.com/@botnarzo" target="_blank"
     ><img
       align="center"
-      src="https://www.edigitalagency.com.au/wp-content/uploads/YouTube-icon-red-png.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/YouTube_full-color_icon_%282024%29.svg/1280px-YouTube_full-color_icon_%282024%29.svg.png"
       alt="@botnarzo"
       height="50"
-      width="60"
+      width="auto
   /></a>
-  <a href="https://www.hackerrank.com/harshrchaudhari" target="blank"
+  <a href="https://www.hackerrank.com/harshrchaudhari" target="_blank"
     ><img
       align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"
       alt="harshrchaudhari"
       height="50"
-      width="50"
+      width="auto"
+      style="margin-left: 5px;"
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🚀 Languages and Technologies:</h3>
+
+<h4 align="left">💻 Programming & Development:</h4>
 <p align="left">
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png"
-      alt="android"
-      width="60"
-      height="60"
-    />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,supabase,mysql,js,ts,nodejs,react,androidstudio,java,html,css,c,cpp" alt="Programming & Development" />
   </a>
-  <a>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="60"
-      height="60"
-    />
+</p>
+
+<h4 align="left">☁️ Cloud & Tools:</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,obsidian,aws,azure,vercel,linux,bootstrap,tailwind" alt="Cloud & Tools" />
   </a>
-  <a>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
-      alt="html5"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
-      alt="css3"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"
-      alt="bootstrap"
-      width="70"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
-      alt="javascript"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"
-      alt="php"
-      width="70"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
-      alt="mysql"
-      width="70"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png"
-      alt="java"
-      width="70"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
-      alt="python"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"
-      alt="nodejs"
-      width="70"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://static-00.iconduck.com/assets.00/figma-icon-2048x2048-lvgft610.png"
-      alt="figma"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png"
-      alt="Adobe After Effects"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"
-      alt="Adobe Premiere Pro"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"
-      alt="photoshop"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"
-      alt="Adobe Lightroom"
-      width="60"
-      height="60"
-    />
+</p>
+
+<h4 align="left">🎨 Design & Creative:</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ae,pr" alt="Design & Creative" />
   </a>
   <a>
     <img
       src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png"
       alt="Canva"
       width="70"
-      height="60"
+      height="48"
+      style="margin-left: 5px;"
     />
   </a>
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=harshchaudhari2004&show_icons=true&locale=en&layout=compact"
-    alt="harshchaudhari2004"
-  />
+<h4 align="left">🤖 AI & APIs:</h4>
+<p align="left">
+  <a>
+    <img
+      src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/chatgpt.png"
+      alt="OpenAI"
+      width="48"
+      height="48"
+      style="margin-right: 5px;"
+    />
+  </a>
+  <a>
+    <img
+      src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg"
+      alt="Gemini"
+      width="48"
+      height="48"
+      style="margin-right: 5px;"
+    />
+  </a>
+  <a>
+    <img
+      src="https://github.githubassets.com/images/modules/site/copilot/copilot.png"
+      alt="GitHub Copilot"
+      width="48"
+      height="48"
+    />
+  </a>
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=harshchaudhari2004&show_icons=true&include_all_commits=true&locale=en"
-    alt="harshchaudhari2004"
-  />
-</p>
+## 📊 GitHub Stats
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=harshchaudhari2004&"
-    alt="harshchaudhari2004"
-  />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border: none;">
+    <tr>
+      <td width="50%" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=harshchaudhari2004&show_icons=true&include_all_commits=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" style="width: 100%; border-radius: 10px;" />
+      </td>
+      <td width="50%" style="border: none; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshchaudhari2004&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" style="width: 75%; border-radius: 10px;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="border: none; padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchaudhari2004&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" style="width: 100%; max-width: 60%; border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
