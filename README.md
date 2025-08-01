@@ -61,7 +61,17 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/YouTube_full-color_icon_%282024%29.svg/1280px-YouTube_full-color_icon_%282024%29.svg.png"
       alt="@botnarzo"
       height="50"
-      width="auto
+      width="auto"
+      style="margin-right: 3px;"
+  /></a>
+  <a href="https://leetcode.com/u/harsh_chaudhari/" target="_blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+      alt="harsh_chaudhari"
+      height="50"
+      width="auto"
+      style="margin-right: 5px;"
   /></a>
   <a href="https://www.hackerrank.com/harshrchaudhari" target="_blank"
     ><img
@@ -70,7 +80,6 @@
       alt="harshrchaudhari"
       height="50"
       width="auto"
-      style="margin-left: 5px;"
   /></a>
 </p>
 
