@@ -1,4 +1,4 @@
-<p><img align="center" alt="Harsh_banner" src="Harsh_LinkedIn-banner.png" /></p>
+<p align="center"><img alt="Harsh_banner" src="Harsh_LinkedIn-banner.png" /></p>
 <h1 align="center">Hi 👋, I'm Harsh Chaudhari</h1>
 <h3 align="center">
   Versatile Technologist Proficient in Full-Stack Development, passionate about
@@ -37,111 +37,65 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/harsh-chaudhari2004" target="_blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
-      alt="harsh-chaudhari2004"
-      height="50"
-      width="auto"
-      style="margin-right: 5px;"
-  /></a>
-  <a href="https://instagram.com/ig__narzo" target="_blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-      alt="ig__narzo"
-      height="50"
-      width="auto"
-      style="margin-right: 5px;"
-  /></a>
-  <a href="https://www.youtube.com/@botnarzo" target="_blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/YouTube_full-color_icon_%282024%29.svg/1280px-YouTube_full-color_icon_%282024%29.svg.png"
-      alt="@botnarzo"
-      height="50"
-      width="auto"
-      style="margin-right: 3px;"
-  /></a>
-  <a href="https://leetcode.com/u/harsh_chaudhari/" target="_blank"
-    ><img
-      align="center"
-      src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"
-      alt="harsh_chaudhari"
-      height="50"
-      width="auto"
-      style="margin-right: 5px;"
-  /></a>
-  <a href="https://www.hackerrank.com/harshrchaudhari" target="_blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"
-      alt="harshrchaudhari"
-      height="50"
-      width="auto"
-  /></a>
+  <a href="https://linkedin.com/in/harsh-chaudhari2004" target="_blank" rel="noopener noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/ig__narzo" target="_blank" rel="noopener noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@botnarzo" target="_blank" rel="noopener noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" alt="YouTube"/>
+  </a>
+  <a href="https://leetcode.com/u/harsh_chaudhari/" target="_blank" rel="noopener noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&theme=dark" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/harshrchaudhari" target="_blank" rel="noopener noreferrer">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank&theme=auto" alt="HackerRank" />
+  </a>
 </p>
 
 <h3 align="left">🚀 Languages and Technologies:</h3>
 
 <h4 align="left">💻 Programming & Development:</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,supabase,mysql,js,ts,nodejs,react,androidstudio,java,html,css,c,cpp" alt="Programming & Development" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,java,c,cpp,html,css,android,mysql,supabase,markdown" alt="Programming & Development" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=django,nodejs,react,reactnative,bootstrap,tailwindcss,googleappsscript,googlecolab,gradle,npm" alt="Programming & Development" />
   </a>
 </p>
 
 <h4 align="left">☁️ Cloud & Tools:</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,obsidian,aws,azure,vercel,linux,bootstrap,tailwind" alt="Cloud & Tools" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,chrome,vscode,terminal,github,git,obsidian,androidstudio,linux" alt="Cloud & Tools" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,vercel,railway,render,githubpages" alt="Cloud & Tools" />
   </a>
 </p>
 
 <h4 align="left">🎨 Design & Creative:</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ae,pr" alt="Design & Creative" />
-  </a>
-  <a>
-    <img
-      src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png"
-      alt="Canva"
-      width="70"
-      height="48"
-      style="margin-left: 5px;"
-    />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,premiere,aftereffects,photoshop,canva" alt="Design & Creative" />
   </a>
 </p>
 
 <h4 align="left">🤖 AI & APIs:</h4>
 <p align="left">
-  <a>
-    <img
-      src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/chatgpt.png"
-      alt="OpenAI"
-      width="48"
-      height="48"
-      style="margin-right: 5px;"
-    />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,claude,deepseek,githubcopilot" alt="AI & APIs" />
   </a>
-  <a>
-    <img
-      src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg"
-      alt="Gemini"
-      width="48"
-      height="48"
-      style="margin-right: 5px;"
-    />
-  </a>
-  <a>
-    <img
-      src="https://github.githubassets.com/images/modules/site/copilot/copilot.png"
-      alt="GitHub Copilot"
-      width="48"
-      height="48"
-    />
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=api,langchain,n8n,ollama,tensorflow" alt="AI & APIs" />
   </a>
 </p>
 
