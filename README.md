@@ -6,17 +6,10 @@
 </h3>
 
 <p align="center">
-  <video
+  <img
     alt="Coding"
-    width="800"
-    autoplay
-    loop
-    muted
-    playsinline
-  >
-    <source src="Pixel_art.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+    src="Pixel_art.gif"
+  />
 </p>
 
 <p align="center">
