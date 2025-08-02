@@ -6,11 +6,17 @@
 </h3>
 
 <p align="center">
-  <img
+  <video
     alt="Coding"
-    width="500"
-    src="https://img.freepik.com/premium-photo/pixel-art-programmer-work_1296762-9503.jpg"
-  />
+    width="800"
+    autoplay
+    loop
+    muted
+    playsinline
+  >
+    <source src="Pixel_art.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <p align="center">
@@ -31,11 +37,11 @@
 - 🔭 I’m currently working on **Supermind**
 - 🌱 I’m currently learning **Python**
 - 👨‍🎓 Currently pursuing **B.E Artificial Intelligence & Data Science**
-- 👀 I’m interested in ... **Coding, gaming and Video Editing...much more**
+- 👀 I’m interested in **Coding, gaming and Video Editing...much more**
 - 📫 How to reach me **harshrchaudhari2004@gmail.com**
 - ⚡ Fun fact **I am a Tech Nerd**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/harsh-chaudhari2004" target="_blank" rel="noopener noreferrer">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn"/>
@@ -54,9 +60,9 @@
   </a>
 </p>
 
-<h3 align="left">🚀 Languages and Technologies:</h3>
+<h2 align="left">🚀 Languages and Technologies:</h2>
 
-<h4 align="left">💻 Programming & Development:</h4>
+<h3 align="left">💻 Programming & Development:</h3>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,java,c,cpp,html,css,android,mysql,supabase,markdown" alt="Programming & Development" />
@@ -68,7 +74,7 @@
   </a>
 </p>
 
-<h4 align="left">☁️ Cloud & Tools:</h4>
+<h3 align="left">☁️ Cloud & Tools:</h3>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,chrome,vscode,terminal,github,git,obsidian,androidstudio,linux" alt="Cloud & Tools" />
@@ -80,14 +86,14 @@
   </a>
 </p>
 
-<h4 align="left">🎨 Design & Creative:</h4>
+<h3 align="left">🎨 Design & Creative:</h3>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,premiere,aftereffects,photoshop,canva" alt="Design & Creative" />
   </a>
 </p>
 
-<h4 align="left">🤖 AI & APIs:</h4>
+<h3 align="left">🤖 AI & APIs:</h3>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,claude,deepseek,githubcopilot" alt="AI & APIs" />
