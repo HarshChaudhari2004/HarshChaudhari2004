@@ -67,7 +67,7 @@
   <a href="https://leetcode.com/u/harsh_chaudhari/" target="_blank"
     ><img
       align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+      src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"
       alt="harsh_chaudhari"
       height="50"
       width="auto"
